@@ -22,6 +22,7 @@ $return = [
 ];
 $return = array_flip($return);
 $return['hitbtc2'] = 'HITB';
+$return['liqui.io'] = 'LIQU';
 return $return;
 
 
