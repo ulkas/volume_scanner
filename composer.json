@@ -1,0 +1,9 @@
+{
+    "require": {
+        "ccxt/ccxt": "^1.10",
+        "colinmollenhour/credis": "^1.9"
+    },
+    "name": "ulkas/volume_scanner",
+    "decsription": "simple buy volume scanner for cc exchanges",
+    "license": "MIT",
+}
