@@ -12,7 +12,7 @@ include 'config/bootstrap.php';
 // $time = microtime(true);
 $time = time();
 //filter extreme price differences
-const PRICE_JUMP = 10;
+// const PRICE_JUMP = 10;
 //compare with how far into history
 const HISTORY_MINUTES = 10;
 

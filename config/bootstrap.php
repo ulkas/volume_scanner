@@ -8,7 +8,7 @@ switch (ENV) {
 }
 $time = time();
 $microtime = microtime(true);
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 
 
 $redis = new Credis_Client();
